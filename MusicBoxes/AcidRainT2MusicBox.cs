@@ -1,5 +1,5 @@
 ﻿using CalamityMod.Items.Materials;
-using CalamityMod.Items.Placeables;
+using CalamityMod.Items.Placeables.FurnitureAcidwood;
 using Terraria.ID;
 using Terraria.ModLoader;
 

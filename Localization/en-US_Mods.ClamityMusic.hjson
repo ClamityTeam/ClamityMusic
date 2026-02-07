@@ -72,8 +72,20 @@ Configs: {
 
 	PyroMusic: {
 		Tooltip: ""
-		CryogenPlaceholder.Label: Cryogen Placeholder
-		AstroGels.Label: Astro Gels
-		BrimstonePremiums.Label: Brimstone Premiums
+
+		CryogenPlaceholder: {
+			Label: Cryogen Placeholder
+			Tooltip: ""
+		}
+
+		AstroGels: {
+			Label: Astro Gels
+			Tooltip: ""
+		}
+
+		BrimstonePremiums: {
+			Label: Brimstone Premiums
+			Tooltip: ""
+		}
 	}
 }
